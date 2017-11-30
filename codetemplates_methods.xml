@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="methodcomment_context" deleted="false" description="Comment for non-overriding methods" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.methodcomment" name="methodcomment">/**
+* &lt;b&gt;Description:&lt;/b&gt;&lt;br&gt; 
+* ${tags}
+* @Note
+* &lt;b&gt;Author:&lt;/b&gt; &lt;a href="https://github.com/wuchaodzxx" target="_blank"&gt;WuChao&lt;/a&gt;
+* &lt;br&gt;&lt;b&gt;Date:&lt;/b&gt; ${date} ${time}
+* &lt;br&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0
+*/</template></templates>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="typecomment_context" deleted="false" description="Comment for created types" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.typecomment" name="typecomment">/**
+* &lt;b&gt;Description:&lt;/b&gt;&lt;br&gt; 
+* @author &lt;a href="https://github.com/wuchaodzxx" target="_blank"&gt;WuChao&lt;/a&gt;
+* @version 1.0
+* @Note
+* &lt;b&gt;ProjectName:&lt;/b&gt; ${project_name}
+* &lt;br&gt;&lt;b&gt;PackageName:&lt;/b&gt; ${package_name}
+* &lt;br&gt;&lt;b&gt;ClassName:&lt;/b&gt; ${type_name}
+* &lt;br&gt;&lt;b&gt;Date:&lt;/b&gt; ${date} ${time}
+*/</template></templates>
